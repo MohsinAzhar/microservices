@@ -1,0 +1,10 @@
+com\uvo\patientservice\dto\PatientResponse.class
+com\uvo\patientservice\PatientServiceApplication.class
+com\uvo\patientservice\dto\PatientResponse$PatientResponseBuilder.class
+com\uvo\patientservice\controller\PatientController.class
+com\uvo\patientservice\dto\PatientRequest$PatientRequestBuilder.class
+com\uvo\patientservice\model\Patient$PatientBuilder.class
+com\uvo\patientservice\service\PatientService.class
+com\uvo\patientservice\dto\PatientRequest.class
+com\uvo\patientservice\model\Patient.class
+com\uvo\patientservice\dao\PatientRepository.class
